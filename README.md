@@ -1,6 +1,6 @@
 # Smart Grocery Assistant – Privacy Policy
 
-**Last updated: [March 24, 2026]**
+**Last updated: March 24, 2026
 
 Smart Grocery Assistant does not collect, store, or share any personal data. All information you enter into the app — such as pantry items, shopping lists, and expiration dates — remains on your device and is never transmitted to any server.
 
